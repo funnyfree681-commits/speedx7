@@ -1,0 +1,5 @@
+{
+  "name": "SwiftRide",
+  "description": "A professional ride-hailing platform with real-time tracking, driver matching, and fare calculation.",
+  "requestFramePermissions": ["geolocation"]
+}
